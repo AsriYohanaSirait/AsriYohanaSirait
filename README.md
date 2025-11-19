@@ -11,21 +11,21 @@
   </a>
 </p>
 
-<p align="center">
-  <small><i>Reference: <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a></i></small>
-</p>
+<h3 align="center">Connect with me:</h3>
 
-<h3 align="center">🤝 Connect with me:</h3>
-<p align="center">
+
+<div align="center" style="margin-top: -80px; position: relative;">
+  
   <a href="https://www.instagram.com/srtyohana/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40srtyohana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=16&duration=3000&pause=1000&color=FFFFFF&background=E4405F&center=true&vCenter=true&width=120&height=40&lines=📱+Instagram" alt="Instagram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/asri-yohana-sirait-138779276" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Asri%20Yohana%20Sirait-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=16&duration=3000&pause=1000&color=FFFFFF&background=0077B5&center=true&vCenter=true&width=120&height=40&lines=💼+LinkedIn" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:asrisirait11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asrisirait11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=16&duration=3000&pause=1000&color=FFFFFF&background=D14836&center=true&vCenter=true&width=120&height=40&lines=📧+Email" alt="Email"/>
   </a>
-</p>
+  
+</div>
