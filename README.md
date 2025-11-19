@@ -5,7 +5,7 @@ Hi
 Sekarang diputar (preview musik):
 <p align="center">
   <a href="https://open.spotify.com/user/Asri Sirait" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID&cover_image=true&theme=novatorem" alt="Now Playing on Spotify"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Asri Sirait&cover_image=true&theme=novatorem" alt="Now Playing on Spotify"/>
   </a>
 </p>
 
