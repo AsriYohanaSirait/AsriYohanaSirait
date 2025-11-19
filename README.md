@@ -2,14 +2,11 @@
   <img src="./JFF.gif" alt="JFF" />
 </p>
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi <span style="color: #E4405F;">👋</span></h1>
 
-<h3 align="center">🎵 Now Playing on Spotify</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/31eqm5jqfm7kajyagjh6k2m5ra4u" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31eqm5jqfm7kajyagjh6k2m5ra4u_image=true&theme=novatorem&background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsriYohanaSirait&layout=compact&theme=dark&bg_color=F4F1E8&border_color=264752&title_color=264752&text_color=264752&icon_color=D75532&card_width=400&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" width="400"/>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 
