@@ -1,17 +1,21 @@
-![JFF](./JFF.gif)
-
-Hi
-
-Sekarang diputar (preview musik):
 <p align="center">
-  <a href="https://open.spotify.com/user/Asri Sirait" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Asri Sirait&cover_image=true&theme=novatorem" alt="Now Playing on Spotify"/>
+  <img src="./JFF.gif" alt="JFF" />
+</p>
+
+<h1 align="center">Hi 👋</h1>
+
+<h3 align="center">🎵 Now Playing on Spotify</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/Asri%20Sirait" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Asri%20Sirait&cover_image=true&theme=novatorem&background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing"/>
   </a>
 </p>
 
-Reference: https://github.com/kittinan/spotify-github-profile.git
+<p align="center">
+  <small><i>Reference: <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a></i></small>
+</p>
 
-Connect with me:
+<h3 align="center">🤝 Connect with me:</h3>
 <p align="center">
   <a href="https://www.instagram.com/srtyohana/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40srtyohana-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -25,7 +29,3 @@ Connect with me:
     <img src="https://img.shields.io/badge/Email-asrisirait11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-Catatan:
-- Ganti SPOTIFY_UID dengan username/ID Spotify Anda agar preview musik berfungsi.
-- Pastikan file JFF.GIf sudah diupload ke root repository (atau sesuaikan path).
