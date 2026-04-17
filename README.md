@@ -12,7 +12,7 @@
 
 <div align="center" style="margin-top: -80px; position: relative;">
   
-  <a href="https://www.instagram.com/srtyohana/" target="_blank">
+  <a href="[https://www.instagram.com/srtyohana/](https://www.instagram.com/its_yohanasrt/)" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=16&duration=3000&pause=1000&color=FFFFFF&background=E4405F&center=true&vCenter=true&width=140&height=40&lines=♡+Instagram" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
